@@ -1,9 +1,9 @@
 # Luiz Fernando de Melo
 
-- 🔭 working on Nvoip
+- 🔭 Working on Nvoip
 - 🌱 I’m currently learning Java and React
 - ⚡ Fact: I'm  don't give up !
-- :coffee: coffee lover
+- :coffee: Coffee lover
  
 
 
