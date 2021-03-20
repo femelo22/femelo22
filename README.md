@@ -9,20 +9,20 @@ Meu nome é Luiz Fernando, sou um estudante de Sistemas de Informações na Facu
 <img align="right" alt="img" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="50%" />
 
 
-#### 🌱 Things I am currently working on: 
-- 💻 Working on Nvoip
-- I’m currently learning Java and React
-- ⚡ Fact: I don't give up !
-- ☕ Coffee loverre  
+#### 🌱 Coisas que estou trabalhando ultimamente: 
+- API's
+- Padrões de projeto
+- Spring Framework
+- Java 
 
 
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
+#### :muscle: Coisas que estou me desafiando:
+- Acordar mais cedo para práticar exercícios
+- Evoluir um pouco mais a cada dia na programação
+- Ler 1 livro por mês
+- Passar mais tempo com a família <3
 
-#### :computer: Programming languages and tools: 
+#### :computer: Linguagens e ferramentas: 
 <p>
  
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=femelo22&include_all_commits=true&count_private=true&show_icons=true" />
