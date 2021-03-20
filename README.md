@@ -25,7 +25,8 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 
 #### :computer: Programming languages and tools: 
 <p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=femelo22&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" />
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=femelo22&include_all_commits=true&count_private=true&show_icons=true" />
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=femelo22&layout=compact" />
 
