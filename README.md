@@ -6,7 +6,7 @@
 
 Meu nome é Luiz Fernando, sou um estudante de Sistemas de Informações na Faculdade Metodista Granbery e atualmente trabalho na Nvoip.
 
-<img align="right" alt="img" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="50%" />
 
 
 #### 🌱 Things I am currently working on: 
