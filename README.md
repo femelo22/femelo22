@@ -24,13 +24,9 @@ Meu nome é Luiz Fernando, sou um estudante de Sistemas de Informações na Facu
 
 #### :computer: Linguagens e ferramentas: 
 <p>
- 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=femelo22&include_all_commits=true&count_private=true&show_icons=true" />
-
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=femelo22&layout=compact" />
 
-
- 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 <br />
