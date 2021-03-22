@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:luiz123jfmg@gmail.com)
 
 <p>Meu nome é Luiz Fernando, moro na cidade de Juiz de Fora - MG.</p>
-<p>Sou estudante de sistemas de informações na Faculdade Metodista Granbery </p>
+<p>Sou estudante de sistemas de informações na Faculdade Metodista Granbery.</p>
 <p>Atualmente trabalho na Nvoip.</p>
 
 <img align="right" alt="img" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="50%" />
