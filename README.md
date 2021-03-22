@@ -4,7 +4,9 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fernando-de-melo-%F0%9F%90%BA-4a553b195/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:luiz123jfmg@gmail.com)
 
-Meu nome é Luiz Fernando, sou estudante de sistemas de informações na Faculdade Metodista Granbery e atualmente trabalho na Nvoip.
+Meu nome é Luiz Fernando, moro na cidade de Juiz de Fora - MG.
+Sou estudante de sistemas de informações na Faculdade Metodista Granbery 
+Atualmente trabalho na Nvoip.
 
 <img align="right" alt="img" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="50%" />
 
