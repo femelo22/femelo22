@@ -16,6 +16,7 @@
 - Padrões de projeto
 - Spring Framework
 - Java 
+- React Native
 
 
 #### :muscle: Coisas que estou me desafiando:
