@@ -18,13 +18,11 @@
 - Java 
 - React Native
 
-
 #### :muscle: Coisas que estou me desafiando:
 - Acordar mais cedo para práticar exercícios
 - Evoluir um pouco mais a cada dia na programação
 - Aprender mais sobre testes de unidade com JUnit
 - Passar mais tempo com a família <3
-
 
 #### :computer: Linguagens e ferramentas: 
 <p>
