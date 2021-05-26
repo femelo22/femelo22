@@ -15,7 +15,8 @@
 - API's
 - Padrões de projeto
 - Spring Framework
-- Java 
+- Java
+- Boas práticas de programação 
 
 #### :muscle: Coisas que estou me desafiando:
 - Acordar mais cedo para práticar exercícios
