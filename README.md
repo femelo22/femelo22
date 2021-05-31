@@ -10,7 +10,6 @@
 
 <img align="right" alt="img" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="50%" />
 
-
 #### 🌱 Coisas que estou trabalhando ultimamente: 
 - API's
 - Padrões de projeto
