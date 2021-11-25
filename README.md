@@ -16,10 +16,10 @@
 - Spring Framework
 - Java
 - Boas práticas de programação 
+- ReactJS
 
 #### :muscle: Coisas que estou me desafiando:
 - Acordar mais cedo para práticar exercícios
-- Praticar inglês todos dias
 - Evoluir um pouco mais a cada dia na programação
 - Aprender mais sobre testes de unidade com JUnit
 - Passar mais tempo com a família <3
