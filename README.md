@@ -6,7 +6,7 @@
 
 <p>Meu nome é Luiz Fernando, moro na cidade de Juiz de Fora - MG.</p>
 <p>Sou estudante de sistemas de informações na Faculdade Metodista Granbery.</p>
-<p>Atualmente trabalho na Nvoip.</p>
+<p>Atualmente trabalho na Accenture.</p>
 
 <img align="right" alt="img" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="50%" />
 
