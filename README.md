@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fernando-de-melo-%F0%9F%90%BA-4a553b195/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:luiz123jfmg@gmail.com)
 
-<p>Meu nome é Luiz Fernando, moro na cidade de Juiz de Fora - MG.</p>
+<p>Meu nome é Luiz Fernando, atualmente moro na cidade de Juiz de Fora - MG.</p>
 <p>Sou estudante de sistemas de informações na Faculdade Metodista Granbery.</p>
 <p>Atualmente trabalho na Accenture.</p>
 
