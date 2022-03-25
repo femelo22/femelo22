@@ -14,9 +14,9 @@
 - API's
 - Padrões de projeto
 - Spring Framework
-- Java
+- Java / Kotlin
 - Boas práticas de programação 
-- ReactJS
+- Angular
 
 #### :muscle: Coisas que estou me desafiando:
 - Acordar mais cedo para práticar exercícios
