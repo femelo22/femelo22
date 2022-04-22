@@ -8,7 +8,7 @@
 <p>Sou estudante de sistemas de informações na Faculdade Metodista Granbery.</p>
 <p>Trabalho na Accenture Brasil.</p>
 
-<img align="right" alt="img" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="50%" />
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador fmelo22">
 
 #### 🌱 Coisas que estou trabalhando ultimamente: 
 - API's
