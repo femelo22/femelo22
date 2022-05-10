@@ -8,54 +8,32 @@
 <p>Sou estudante de sistemas de informações na Faculdade Metodista Granbery.</p>
 <p>Trabalho na TecnoSpeed IT.</p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador fmelo22">
-
-#### 🌱 Coisas que estou trabalhando ultimamente: 
-- API's
-- Padrões de projeto
-- Spring Framework
-- Java / Kotlin
-- Boas práticas de programação 
-- Angular
-
-#### :muscle: Coisas que estou me desafiando:
-- Acordar mais cedo para práticar exercícios
-- Evoluir um pouco mais a cada dia na programação
-- Aprender mais sobre testes de unidade com JUnit
-- Passar mais tempo com a família <3
-
-
 #### :computer: Linguagens e ferramentas: 
 <p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=femelo22&count_private=true" />
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=femelo22&layout=compact" />
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/auth0/auth0-ar21.svg"></code>
+ <br />
  
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/auth0/auth0-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21.svg"></code>
-
-
- 
-
-
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21.svg"></code>
+ <br />
 </p>
+<br />
+
+
+ <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=femelo22&count_private=true" />
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador fmelo22" />
+ <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=femelo22&layout=compact" />
 
 
 
