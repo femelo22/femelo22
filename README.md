@@ -6,7 +6,7 @@
 
 <p>Meu nome é Luiz Fernando, atualmente moro na cidade de Juiz de Fora - MG.</p>
 <p>Sou estudante de sistemas de informações na Faculdade Metodista Granbery.</p>
-<p>Trabalho na Accenture Brasil.</p>
+<p>Trabalho na TecnoSpeed IT.</p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador fmelo22">
 
