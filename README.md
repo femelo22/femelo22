@@ -30,11 +30,14 @@
 </p>
 <br />
 
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador fmelo22" />
+<div align="center">
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px"  width="400px" align="right" alt="Computador fmelo22" />
  
  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=femelo22&count_private=true" />
  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=femelo22&layout=compact" />
 
+
+</div>
 
 
 
