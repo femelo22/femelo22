@@ -81,17 +81,14 @@
   
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />
-  </a>
-  
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" />
-  </a>
-  
+  </a>  
+</p>
+
+<p align="left">
   <a href="https://pt-br.reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40" />
   </a>
-  
-</p>
+ </p>
 
 <p align="left">
   
