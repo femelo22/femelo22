@@ -7,9 +7,6 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="femelo22" /></p>
 
-
-- 🌱 I have been working as a backend developer for around 4 years, and I'm extremely enthusiastic about tackling challenges and embracing new technologies. I am always eager to enhance my skills and expand my knowledge base. Apart from my passion for programming, I also enjoy cooking, nurturing plants, and I am a dad of three adorable kittens =)
-
 - 📫 How to reach me **luiz123jfmg@gmail.com** 
 
 
